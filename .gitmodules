@@ -1,0 +1,3 @@
+[submodule "Pomodoro-Classified"]
+	path = Pomodoro-Classified
+	url = https://github.com/loupdaniel/Pomodoro-Classified.git
