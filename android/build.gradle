@@ -29,3 +29,11 @@ subprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+task copyPrivate(type: Copy) {
+	copy {
+		from './submodule-data'
+		include "*.dart"
+		into 'lib/screens/home_screen'
+	}
+}
