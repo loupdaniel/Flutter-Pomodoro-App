@@ -177,7 +177,7 @@ You can watch the video by clicking the image below.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=YOLOv5&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-%23white.svg?style=for-the-badge&logo=YOLOv5&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ### - 개발 언어
@@ -271,19 +271,3 @@ You can watch the video by clicking the image below.
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-## 📖 참고자료
-
-- 음성 처리 기술 : FFmpeg. 2016. FFmpeg. https://github.com/FFmpeg/FFmpeg#documentation (2022)
-
-- 음성-언어 변환 (STT) : ETRI. 2021. ETRI 음성처리기술. https://aiopen.etri.re.kr/# (2022)
-
-- 한국어 언어처리 (전/후) : KoNLPy. 2022. KoNLPy. https://github.com/konlpy/konlpy (2022)
-
-- 영상 처리 기술 (장면전환) : opencv. 2022. opencv. https://github.com/opencv/opencv (2022)
-
-- 이미지에서 글자 추출 (OCR) : madmaze. 2022. pytesseract. https://github.com/madmaze/pytesseract (2022)
-
-- Background task (비동기 실행) : ParthS007. 2021. background. https://github.com/ParthS007/background/releases/tag/v0.2.1 (2022)
